@@ -1,0 +1,24 @@
+{
+  "name": "yandex-task-2",
+  "version": "1.0.0",
+  "description": "API to work with lectures, schools and rooms for lectures in Yandex Summer School.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express" : "*",
+    "body-parser" : "*",
+    "mongoose" : "*"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node",
+    "Express",
+    "Mongo",
+    "Angular"
+  ],
+  "author": "Muhammadjavohirbek Sur'atov",
+  "license": "ISC"
+}
